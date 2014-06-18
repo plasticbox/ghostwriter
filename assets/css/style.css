@@ -7,7 +7,7 @@ html, body {
 body {
   background: #fefefe;
   color: #424242;
-  font-family: "Open Sans", arial, sans-serif;
+  font-family: "Malgun Gothic", "Open Sans", arial, sans-serif;
   font-size: 18px; }
 
 h1, h2, h3, h4, h5, h6 {
@@ -242,6 +242,7 @@ table {
   font-weight: 600;
   line-height: 1;
   margin: 25px 0 0; }
+  /*
   .post-date:after,
   .blog-description:after {
     border-bottom: 1px dotted #303030;
@@ -249,7 +250,8 @@ table {
     display: block;
     margin: 40px auto 0;
     width: 100px; }
-
+   */
+	
 .post-content a:hover {
   border-bottom: 1px dotted #f03838;
   padding: 0 0 2px; }
